@@ -1,0 +1,5 @@
+applications:
+  - name: zuul-api-gateway
+    path: target/service2-0.0.1-SNAPSHOT.jar
+    buildpack: java_buildpack
+    memory: 1G
