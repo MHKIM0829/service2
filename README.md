@@ -1,7 +1,7 @@
 # **CF Netflix Zuul**
 
 
-![](./../eurekaserver/architecture.png)
+![](./architecture.png)
 
 - ### locally test
 ```
